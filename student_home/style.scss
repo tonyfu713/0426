@@ -1,0 +1,15 @@
+body{
+    margin: 10vh 30vw 0px 30vw;
+
+}
+.flex{
+    background-color: rgb(158, 182, 218);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+    .btn{
+        margin: 10px;
+    }
+}

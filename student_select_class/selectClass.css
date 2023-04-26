@@ -13,4 +13,12 @@ body {
 }
 .flex .btn {
   margin: 10px;
-}/*# sourceMappingURL=style.css.map */
+  margin-top: 20px;
+}
+.flex h1 {
+  margin-bottom: 20px;
+}
+.flex p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}/*# sourceMappingURL=reset.css.map */

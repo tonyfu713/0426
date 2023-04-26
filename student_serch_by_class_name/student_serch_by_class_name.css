@@ -9,8 +9,19 @@ body {
   justify-content: center;
   margin: auto;
   text-align: center;
-  padding: 100px;
+  padding: 100px 0px;
 }
 .flex .btn {
   margin: 10px;
-}/*# sourceMappingURL=style.css.map */
+  margin-top: 20px;
+}
+.flex h1 {
+  margin-bottom: 20px;
+}
+.flex p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.flex .aa {
+  margin-bottom: 10px;
+}/*# sourceMappingURL=reset.css.map */

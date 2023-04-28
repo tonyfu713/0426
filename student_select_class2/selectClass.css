@@ -1,5 +1,6 @@
 body {
   margin: 10vh 30vw 0px 30vw;
+  background-color: rgb(186, 218, 236);
 }
 
 .flex {
@@ -21,4 +22,4 @@ body {
 .flex p {
   margin-top: 10px;
   margin-bottom: 0px;
-}/*# sourceMappingURL=reset.css.map */
+}/*# sourceMappingURL=selectClass.css.map */

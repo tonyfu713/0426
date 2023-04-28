@@ -1,0 +1,22 @@
+body {
+  margin: 10vh 30vw 0px 30vw;
+  background-color: rgb(186, 218, 236);
+}
+
+.flex {
+  background-color: rgb(158, 182, 218);
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  padding: 100px;
+}
+.flex .btn {
+  margin: 10px;
+}
+.flex .flex2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}/*# sourceMappingURL=home.css.map */
